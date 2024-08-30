@@ -30,7 +30,7 @@ comparision may be either with numbers or strings or any things
 6. Logical Operators
        &&  and ==> if all expression is true then we can use &&
        ||  or  ==> if any one expression is true 
-       !   not ==> if result is true then it shows false and if is false change to true.
+       !   not ==> if result is true then it shows false and if is false change to true. 
 
  */
 //**1&2. arthematic and increasement or decreasemennt operator
